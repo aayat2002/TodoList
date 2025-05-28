@@ -11,6 +11,9 @@
   outline: none;
 }
 
+.create_from {
+  padding-bottom: 30px;
+}
 .create_from button {
   padding: 10px;
   background-color: black;
